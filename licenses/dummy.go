@@ -1,5 +1,4 @@
-// +build tools
-
+// Placeholder, allows others to pull in the licenses.db file via go.mod.
 package licenses
 
-// Placeholder, allows others to pull in the licenses.db file via go.mod.
+var Dummy bool
